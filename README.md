@@ -17,14 +17,14 @@ git commit -m "first commit"
 
 git branch -M master 
 
-git remote add origin https://github. com/Hariyanto77/test-baru.git 
+git remote add origin https://github.com/username/test-baru.git 
 
 git push -u origin master 
 
 
 ... or push an existing repository from the command line 
 
-git remote add origin https://github.com/Hariyanto77/test-baru.git 
+git remote add origin https://github.com/username/test-baru.git 
 
 git branch -M master 
 
